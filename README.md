@@ -4,8 +4,6 @@ A collection of generalized engineering case studies and design documents based 
 
 The goal is to show **how I approach engineering problems** — from understanding requirements and designing a solution to debugging, performance optimization, and maintaining production systems.
 
-All examples are generalized and intentionally avoid company-specific or proprietary information.
-
 ---
 
 ## Case Studies
